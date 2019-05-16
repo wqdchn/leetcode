@@ -4,7 +4,7 @@
 .pydevproject
 .idea/
 .idea
-out/
+output/
 .DS_Store
 .cache
 *.pyc
