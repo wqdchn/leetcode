@@ -27,5 +27,6 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Mutiply_strings.java)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Swap_nodes_in_pairs.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/swap_nodes_in_pairs.py)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Valid_parentheses.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/stack_queue/valid_parentheses.py)|Easy|
+|15|[Three Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Three_sum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/three_sum.py)|Meidum|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/ReverseInteger.java)|Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/TwoSum.java)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/TwoSum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum.py)|Easy|
