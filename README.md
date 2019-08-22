@@ -34,7 +34,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Search_in_rotated_sorted_array_ii.java)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/n_queens.py)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Pow.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/pow.py)|Medium|
-|46|[Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Permutations.java)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Permutations.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/permutations.py)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Jump_game_ii.java)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Mutiply_strings.java)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Swap_nodes_in_pairs.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/swap_nodes_in_pairs.py)|Medium|
