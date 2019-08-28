@@ -32,15 +32,40 @@ package src.easy;
  **/
 public class Number_of_1_bits {
 
-    public static void main(String[] args){
-        int n = 0b000011111110;//声明一个二进制数
-        System.out.println(hammingWeight(n));
+  public static void main(String[] args) {
+    int n = 0b000011111110;//声明一个二进制数
+    System.out.println(hammingWeight(n));
+    System.out.println(hammingWeight2(n));
+    System.out.println(hammingWeight3(n));
 
-        n = 0b11111111111111111111111111111101;
-        System.out.println(hammingWeight(n));
-    }
+    n = 0b11111111111111111111111111111101;
+    System.out.println(hammingWeight(n));
+    System.out.println(hammingWeight2(n));
+    System.out.println(hammingWeight3(n));
+  }
 
-    public static int hammingWeight(int n) {
-        return Integer.bitCount(n);
+  public static int hammingWeight(int n) {
+    return Integer.bitCount(n);
+  }
+
+  public static int hammingWeight2(int n) {
+    int res = 0;
+    int mask = 1;
+    for (int i = 0; i < 32; i++) {
+      if ((n & mask) != 0) {
+        res++;
+      }
+      mask <<= 1;
     }
+    return res;
+  }
+
+  public static int hammingWeight3(int n) {
+    int res = 0;
+    while (n != 0) {
+      res++;
+      n &= (n - 1);
+    }
+    return res;
+  }
 }
