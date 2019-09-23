@@ -6,6 +6,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_String_Chain.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_string_chain.py)|Medium|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Broken_calculator.java)|Medium|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Number_of_lines_to_write_string.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Jewels_and_Stones.java)|Easy|
