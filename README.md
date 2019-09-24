@@ -14,6 +14,7 @@
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Repeated_string_match.java)|Easy|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Largest_palindrome_product.java)|Hard|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Ones_and_Zeroes.java)|Medium|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Sum_of_Left_Leaves.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/sum_of_left_leaves.py)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Kth_Smallest_Element_in_a_Sorted_Matrix.java)|Medium|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/dp/largest_divisible_subset.py)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Counting_Bits.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/counting_bits.py)|Medium|
