@@ -60,4 +60,5 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Valid_parentheses.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/stack_queue/valid_parentheses.py)|Easy|
 |15|[Three Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Three_sum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/three_sum.py)|Meidum|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/ReverseInteger.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/reverse_integer.py)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Add_Two_Numbers.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/TwoSum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum.py)|Easy|
