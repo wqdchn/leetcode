@@ -13,8 +13,8 @@ package src.hard;
 public class Median_of_Two_Sorted_Arrays {
 
   public static void main(String[] args) {
-    int[] nums1 = new int[]{1, 3};
-    int[] nums2 = new int[]{2};
+    int[] nums1 = new int[]{3, 5, 8, 9};
+    int[] nums2 = new int[]{1, 2, 7, 10, 11, 12};
     System.out.println(findMedianSortedArrays(nums1, nums2));
   }
 
@@ -28,14 +28,14 @@ public class Median_of_Two_Sorted_Arrays {
     int cut2 = 0;
     int cutL = 0;
     int cutR = nums1.length;
-    while (cutL < cutR) {
+    while (cutL <= cutR) {
       cut1 = (cutR - cutL) / 2 + cutL;
       cut2 = len / 2 - cut1;
 
-      int l1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
-      int l2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
-      int r1 = (cut1 == nums1.length) ? Integer.MAX_VALUE : nums1[cut1];
-      int r2 = (cut2 == nums2.length) ? Integer.MAX_VALUE : nums2[cut2];
+      double l1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
+      double l2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
+      double r1 = (cut1 == nums1.length) ? Integer.MAX_VALUE : nums1[cut1];
+      double r2 = (cut2 == nums2.length) ? Integer.MAX_VALUE : nums2[cut2];
 
       if (l1 > r2) {
         cutR = cut1 - 1;
@@ -44,7 +44,7 @@ public class Median_of_Two_Sorted_Arrays {
       } else {
         if (len % 2 == 0) {
           l1 = (l1 > l2) ? l1 : l2;
-          r1 = (r1 < r2) ? r1 : r1;
+          r1 = (r1 < r2) ? r1 : r2;
           return (l1 + r1) / 2;
         } else {
           r1 = (r1 < r2) ? r1 : r2;
