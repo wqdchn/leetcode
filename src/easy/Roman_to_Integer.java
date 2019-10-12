@@ -31,7 +31,7 @@ import java.util.Map;
  * @author: wqdong
  * @create: 2019-10-12 11:42
  **/
-public class Roman_to_Interge {
+public class Roman_to_Integer {
   public static void main(String[] args){
     String s = "MCMXCIV";
     System.out.println(romanToInt(s));
