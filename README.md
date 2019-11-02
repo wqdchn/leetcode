@@ -71,4 +71,6 @@
 
 ### LeetCode Database
 
+| # | Title | Solution | Difficulty |
+|----| ----- | -------- | ---------- |
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/combine_two_tables.sql)|Easy|
