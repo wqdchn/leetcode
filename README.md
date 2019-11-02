@@ -73,6 +73,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/combine_two_tables.sql)|Easy|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/department_highest_salary.sql)|Medium|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/nth_highest_salary.sql)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/second_highest_salary.sql)|Easy|
-|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/nth_highest_salary.sql)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/combine_two_tables.sql)|Easy|
