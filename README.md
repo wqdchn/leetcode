@@ -68,3 +68,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_Substring_Without_Repeating_Characters.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_substring_without_repeating_characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Add_Two_Numbers.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_two_numbers.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/TwoSum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum.py)|Easy|
+
+### LeetCode Database
+
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/combine_two_tables.sql)|Easy|
