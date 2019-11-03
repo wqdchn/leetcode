@@ -73,6 +73,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/rising_temperature.sql)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/department_highest_salary.sql)|Medium|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/nth_highest_salary.sql)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/second_highest_salary.sql)|Easy|
