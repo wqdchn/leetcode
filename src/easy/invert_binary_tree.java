@@ -35,7 +35,7 @@ public class invert_binary_tree {
     pre_order(root);
 
     System.out.println();
-    TreeNode invert_root = invertTree3(root);
+    TreeNode invert_root = invertTree2(root);
     pre_order(invert_root);
 
   }
@@ -60,8 +60,8 @@ public class invert_binary_tree {
     root.left = root.right;
     root.right = temp;
 
-    invertTree(root.left);
-    invertTree(root.right);
+    invertTree2(root.left);
+    invertTree2(root.right);
     return root;
   }
 
