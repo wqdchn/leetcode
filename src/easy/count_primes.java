@@ -44,15 +44,15 @@ public class count_primes {
       return 0;
     }
     int count = n / 2;
-    boolean s[] = new boolean[n];
+    boolean not_prime[] = new boolean[n];
 
     for (int i = 3; i * i < n; i += 2) {
-      if (s[i]) {
+      if (not_prime[i] == true) {
         continue;
       }
       for (int j = i * i; j < n; j += i * 2) {
-        if (!s[j]) {
-          s[j] = true;
+        if (not_prime[j] == false) {
+          not_prime[j] = true;
           count--;
         }
       }
