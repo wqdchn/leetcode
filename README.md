@@ -16,6 +16,7 @@
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Repeated_string_match.java)|Easy|
 |509|[Fib](https://leetcode.com/problems/fibonacci-number/) |  [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/fibonacci_number.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/fib.py)|Easy|
 |479|[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Largest_palindrome_product.java)|Hard|
+|478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/generate_random_point_in_a_cricle.java)|Medium|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Ones_and_Zeroes.java)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/implement_rand10_using_rand7.java)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Sum_of_Left_Leaves.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/sum_of_left_leaves.py)|Easy|
