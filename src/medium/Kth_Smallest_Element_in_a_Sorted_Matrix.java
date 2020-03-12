@@ -56,4 +56,33 @@ public class Kth_Smallest_Element_in_a_Sorted_Matrix {
         Collections.sort(matlist);
         return matlist.get(k-1);
     }
+
+    // Runtime: 12 ms, faster than 62.51% of Java online submissions for Kth Smallest Element in a Sorted Matrix.
+    public static int kthSmallest2(int[][] matrix, int k) {
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+
+                return o2 - o1;
+            }
+        });
+
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix.length; j++) {
+                if (pq.size() < k) {
+                    pq.offer(matrix[i][j]);
+                } else {
+
+                    if (matrix[i][j] < pq.peek()) {
+                        pq.poll();
+                        pq.offer(matrix[i][j]);
+                    }
+
+                }
+            }
+        }
+
+        return pq.peek();
+    }
 }
