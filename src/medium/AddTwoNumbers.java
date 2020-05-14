@@ -2,11 +2,11 @@ package src.medium;
 
 /**
  * @program: leetcode
- * @description: https://leetcode.com/problems/add-two-numbers/solution/
+ * @description: https://leetcode.com/problems/add-two-numbers/
  * @author: wqdong
  * @create: 2019-10-01 14:18
  **/
-public class Add_Two_Numbers {
+public class AddTwoNumbers {
 
   public static class ListNode {
 
