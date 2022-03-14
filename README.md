@@ -7,6 +7,7 @@
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_String_Chain.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_string_chain.py)|Medium|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/binary_prefix_divisible_by_5.py)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/n_th_tribonacci_number.py)|Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Broken_calculator.java)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/MiddleOfTheLinkedList.java)|Easy|
