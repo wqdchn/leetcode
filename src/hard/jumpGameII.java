@@ -21,7 +21,7 @@ package src.hard;
  *
  * You can assume that you can always reach the last index.
  **/
-public class Jump_game_ii {
+public class jumpGameII {
 
     public static void main(String[] args){
         int[] nums = new int[]{2, 3, 1, 1, 4};

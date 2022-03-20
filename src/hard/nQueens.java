@@ -16,7 +16,7 @@ import java.util.List;
  * @author: wqdong
  * @create: 2019-08-22 11:49
  **/
-public class N_Queens {
+public class nQueens {
 
   public static void main(String[] args) {
     int n = 4;

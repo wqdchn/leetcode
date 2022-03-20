@@ -38,7 +38,7 @@ package src.hard;
  * 一直往下找，直到99*91=9009这个回文数
  *
  **/
-public class Largest_palindrome_product {
+public class largestPalindromeProduct {
     public static  void main(String[] args){
         System.out.println("/////////////////////////////////");
         int n = 5;

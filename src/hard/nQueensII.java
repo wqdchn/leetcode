@@ -11,7 +11,7 @@ package src.hard;
  * @author: wqdong
  * @create: 2019-08-30 10:29
  **/
-public class N_Queens_II {
+public class nQueensII {
 
   public static int count = 0;
 

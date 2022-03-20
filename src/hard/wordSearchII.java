@@ -76,7 +76,7 @@ class Trie{
   }
 }
 
-public class Word_Search_II {
+public class wordSearchII {
 
   Set<String> res = new HashSet<String>();
 
@@ -86,7 +86,7 @@ public class Word_Search_II {
 
     String[] words = new String[]{"oath","pea","eat","rain"};
 
-    Word_Search_II s = new Word_Search_II();
+    wordSearchII s = new wordSearchII();
 
     System.out.println(s.findWords(board, words));
   }

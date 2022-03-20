@@ -10,7 +10,7 @@ package src.hard;
  * @author: wqdong
  * @create: 2019-10-07 14:08
  **/
-public class Median_of_Two_Sorted_Arrays {
+public class medianOfTwoSortedArrays {
 
   public static void main(String[] args) {
     int[] nums1 = new int[]{3, 5, 8, 9};

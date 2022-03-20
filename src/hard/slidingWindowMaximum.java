@@ -27,7 +27,7 @@ import java.util.PriorityQueue;
  * @author: wqdong
  * @create: 2019-08-12 12:33
  **/
-public class Sliding_window_maximum {
+public class slidingWindowMaximum {
 
     public static void main(String[] args){
         int[] nums = new int[] {1,3,-1,-3,5,3,6,7};
