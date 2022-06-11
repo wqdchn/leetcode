@@ -117,6 +117,10 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/customers-who-never-order.sql)|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/find-customer-referee.sql)|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/recyclable-and-low-fat-products.sql)|Easy|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/big-countries.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/rising_temperature.sql)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/delete_duplicate_emails.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](https://github.com/wqdchn/leetcode/blob/master/database/duplicate_emails.sql)|Easy|
